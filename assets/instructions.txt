@@ -1,0 +1,1 @@
+here the images and logos will go like adaptive-icon, favicon, icon, splash-icon, etc.
